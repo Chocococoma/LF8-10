@@ -1,5 +1,5 @@
-a = 3
-b = 5
+a = 2
+b = 6
 
-c = a+b
+c = z
 print("result is", c ," so it is correct")
