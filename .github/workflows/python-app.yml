@@ -39,5 +39,5 @@ jobs:
         python sample.py
     - name: Unittest
       run: |
-        python test.py
+        python Tests/test.py
 
