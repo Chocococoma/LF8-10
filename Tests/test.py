@@ -7,7 +7,7 @@ class testExamples(unittest.TestCase):
 
     def test_isupper(self):
         self.assertTrue('FOO'.isupper())
-        self.assertFalse('Foo'.isupper())
+        self.assertFalse('Fooo'.isupper())
 
 if __name__ == '__main__':
     unittest.main()
